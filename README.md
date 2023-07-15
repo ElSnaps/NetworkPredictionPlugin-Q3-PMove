@@ -1,5 +1,9 @@
 # NPP Q3 PMove
 
+## Update
+
+Epic has discontinued NPP in favour of a new TBA prediction plugin. Archiving this repo, incase anyone wants to stare at it for weird history reasons. 
+
 ## Summary
 
 Hi! Here's a shitty port of Quake 3's Player Movement onto Epic's Network Prediction Plugin.
