@@ -2,7 +2,9 @@
 
 ## Update
 
-Epic has discontinued NPP in favour of a new TBA prediction plugin. Archiving this repo, incase anyone wants to stare at it for weird history reasons. 
+~~Epic has discontinued NPP in favour of a new TBA prediction plugin. Archiving this repo, incase anyone wants to stare at it for weird history reasons.~~
+
+Seems like NPP is in active usage on Epic's new Mover plugin, so probably this repo might come in handy for dissecting NPP now! Probably I will move this Quake implementation over to Mover when it's more production ready.
 
 ## Summary
 
